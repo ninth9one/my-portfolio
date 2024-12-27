@@ -12,7 +12,7 @@ const Resume = () => {
           <ul>
             <li>HTML & CSS</li>
             <li>JavaScript (ES6+)</li>
-            <li>React & Redux</li>
+            <li>React</li>
             <li>Node.js</li>
             <li>Express.js</li>
             <li>MongoDB & SQL</li>
