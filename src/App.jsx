@@ -6,6 +6,8 @@ import AboutMe from './sections/AboutMe.jsx';
 import Portfolio from './sections/Portfolio.jsx';
 import Contact from './sections/Contact.jsx';
 import Resume from './sections/Resume.jsx';
+import './App.css';
+
 
 function App() {
   return (
